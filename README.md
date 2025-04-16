@@ -96,7 +96,7 @@ A complete end-to-end **business report** that allows stakeholders to:
 
 ## 🔗 Live Report Link
 
-👉 [View the Report in Looker Studio]([https://lookerstudio.google.com/s/uMhGSWnsufw](https://lookerstudio.google.com/reporting/8ba31a78-8a5f-4323-813c-80c2bf22f9f3))  
+👉 [View the Report in Looker Studio](https://lookerstudio.google.com/s/uMhGSWnsufw](https://lookerstudio.google.com/reporting/8ba31a78-8a5f-4323-813c-80c2bf22f9f3))  
 
 
 ---
