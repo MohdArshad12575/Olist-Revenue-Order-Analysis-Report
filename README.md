@@ -6,11 +6,9 @@ This project analyzes Brazilian e-commerce data from Olist to derive meaningful 
 
 Here’s a preview of the interactive **Olist Revenue & Order Analysis Report** built using Looker Studio:
 
-![Olist Report Screenshot](path-to-your-image/olist_report_screenshot.jpg)
+![Image](https://github.com/user-attachments/assets/9dc13b9f-d4f1-49c9-855c-4e23f8a81924)
 
-> Tip: Replace the image path with your actual image file or GitHub raw URL (if uploaded to the repo), like:  
-> `https://raw.githubusercontent.com/your-username/your-repo/main/images/olist_report_screenshot.jpg`
-
+![Image](https://github.com/user-attachments/assets/65dc8a05-9fe9-46b4-b6a6-325b907a19a1)
 
 ---
 
